@@ -1,3 +1,31 @@
+Samadhan Food Court - Admin Panel
+📝 Overview
+This is the official admin panel for the Samadhan Food Court. It is an internal, secure web application designed for administrators to manage the restaurant's operations. This dashboard provides full control over menu items and allows for real-time monitoring of customer orders.
+
+This project is a full-stack application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and is secured using Firebase Authentication for role-based access control.
+
+🛠️ Tech Stack
+Frontend: React.js, React Router, Axios
+
+Backend: Node.js, Express.js
+
+Database: MongoDB with Mongoose
+
+Authentication: Firebase Authentication (Email/Password & Google OAuth)
+
+🚀 Getting Started
+Prerequisites
+Node.js (v14 or later)
+
+npm
+
+MongoDB (or a MongoDB Atlas account)
+
+A Firebase project
+
+
+
+
 samadhan-food-court-admin/
 ├── .gitignore
 ├── README.md
